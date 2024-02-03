@@ -17,8 +17,8 @@
 
 |欲安裝的產品|	資料庫安裝精靈對應需安裝的產品名稱|
 |---|---|
-|[FastERP](https://github.com/isoface-iot/FastERP)|	[FastERP](https://github.com/isoface-iot/FastERP)、[TARS](https://github.com/isoface-iot/TARS)|
-|[Smart](https://github.com/isoface-iot/Smart)|	[Smart](https://github.com/isoface-iot/Smart)、[TARS](https://github.com/isoface-iot/TARS)|
-|[PinToo](https://github.com/isoface-iot/PinToo)|	[PinToo](https://github.com/isoface-iot/PinToo)、[TARS](https://github.com/isoface-iot/TARS)
-|[FastWeb](https://github.com/isoface-iot/FastWeb)|	Frame、[FastWeb](https://github.com/isoface-iot/FastWeb)、[TARS](https://github.com/isoface-iot/TARS)|
-|[TARS](https://github.com/isoface-iot/TARS)|	[TARS](https://github.com/isoface-iot/TARS)|
+|[FastERP](https://github.com/isoface-iot/FastERP)|	FastERP、demo|
+|[Smart](https://github.com/isoface-iot/Smart)|demo|
+|[PinToo](https://github.com/isoface-iot/PinToo)|demo|
+|[FastWeb](https://github.com/isoface-iot/FastWeb)|	Frame、demo|
+|[TARS](https://github.com/isoface-iot/TARS)|	demo|
