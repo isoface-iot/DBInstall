@@ -22,3 +22,4 @@
 |[PinToo](https://github.com/isoface-iot/PinToo)|demo|
 |[FastWeb](https://github.com/isoface-iot/FastWeb)|	Frame、demo|
 |[TARS](https://github.com/isoface-iot/TARS)|	demo|
+|[FastERP2](https://github.com/isoface-iot/FastERP2)|fasterp2、demo|
